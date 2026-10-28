@@ -13,6 +13,7 @@ My goal is to transform raw data into meaningful insights that support business 
 - 📊 Interested in business intelligence, data visualization, and statistical analysis
 - 🔍 Experienced in analyzing datasets, identifying trends, and answering business questions
 - 🎯 Seeking an entry-level Data Analyst opportunity
+  My CV in [pdf](./nithyasri_data_analytics_resume.pdf).
 
 ## 🛠️ Technical Skills
 
